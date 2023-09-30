@@ -1,2 +1,1 @@
-# Logica
-Atividade prática de Lógica de programação e algoritmos
+# Atividade prática de Lógica de programação e algoritmos
